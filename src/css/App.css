@@ -1,0 +1,53 @@
+body {
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-family: "Rubik Wet Paint", system-ui;
+    font-weight: 400;
+    background-color: rgba(0, 0, 0, 0.8);
+    color: white;
+
+}
+
+.react-button {
+    display: flex;
+
+    gap: 20px;
+}
+
+.minus, .plus {
+
+    border: none;
+    width: 190px;
+    height: 60px;
+    border-radius:10px;
+    text-align: center;
+    color: white;
+    gap: 20px;
+    font-family: "Permanent Marker", serif;
+    font-size: 30px;
+
+}
+
+.minus {
+    background-color: rgb(228, 34, 34);
+}
+
+.plus {
+    background-color: rgb(0, 234, 255);
+}
+
+.Counter{
+    font-size: 60px;
+    transition: all 2s ease;
+}
+.Counter,.viewCount {
+    text-align: center;
+}
+
+
+.viewCount{
+    font-size:120px;
+}
