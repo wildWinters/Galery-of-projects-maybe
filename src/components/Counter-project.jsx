@@ -4,7 +4,7 @@ import "../css/App.css"
 export function Counter(){
 
   const [count,setCount] = useState(0);
-
+  
   function plusOne() {
     setCount((count)=>count+1);
   }
@@ -15,6 +15,7 @@ export function Counter(){
 
   return (
     <>
+
       <h1 className = 'Counter'>Counter:</h1> 
       <p  className = 'viewCount'>{count}</p>
 

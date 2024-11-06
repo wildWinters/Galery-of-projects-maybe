@@ -1,0 +1,41 @@
+body{
+    color: black!important;
+    display: flex!important;
+    align-items: center!important;
+    justify-content: center!important; 
+    overflow: hidden;
+}
+.exit{
+    width: 100px;
+    height: 100px;
+    text-align: right;
+    
+
+}
+.exitBlock{
+    display: flex;
+    justify-content: right;
+}
+img{
+    width: 400px;
+    height: 200px;
+}
+
+
+
+.moveModal {
+    transform: translate(0px,100px);
+    margin: auto;
+    align-self: center;
+    display: flex;
+    flex-direction: column;
+    width: 1000px;
+    height: 100vh;
+
+}
+
+.seasonBlock{
+    display: flex;
+    gap: 40px;
+}
+

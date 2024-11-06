@@ -1,0 +1,26 @@
+[
+    {
+     "className1":"containSeason1 seasonBlock",
+     "className2":"season winter",
+     "src": "https://storage.googleapis.com/pod_public/1300/179853.jpg",
+     "alt":"activate winter",
+     "h3":"activate winter is on",
+     "className3":"season Fall",
+     "src2":"https://kyiv24.news/wp-content/uploads/2020/10/osin-pes-unsplash-01.10.2020-3.jpg",
+     "alt2":"activate authem",
+     "h32":"activate Fall is on"
+    },   
+    {
+    "className1":"containSeason2 seasonBlock",
+    "className2":"season spring",
+    "src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0Kkn21qd26PkRSRFSxkiQs3ND_W0MSEqnLA&s",
+    "alt":"spring",
+    "h3":"activate spring is on",
+    "className3":"summer",
+    "src2":"https://www.englishdom.com/dynamicus/blog-post/000/001/202/1693218395_content_700x455.jpg?1693218395849",
+    "alt2":"summer",
+    "h32":"activate summer is on"  
+    }
+    
+    
+]
